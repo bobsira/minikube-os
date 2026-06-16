@@ -14,10 +14,10 @@
 git clone --branch feature/windows-node-image-builder https://github.com/kubernetes-sigs/minikube-os.git
 ```
 
-2. Change the current directory to the builder folder and then the Windows image builder:
+2. Change the current directory to the deploy folder and then the Windows image builder:
 
 ```powershell
-cd builders\windows-node-image
+cd deploy\windows-node-image
 ```
 
 3. Install packer using the command below
