@@ -2,6 +2,11 @@
 
 Just enough linux for local Kubernetes, linux OS used for minikube VMs
 
+## Windows node images
+
+See the [Minikube Windows Node Image guide](docs/windows-node-image-builder.md)
+for building and publishing Windows Server node images from `deploy/windows-node-image/`.
+
 ## Community, discussion, contribution, and support
 
 Learn how to engage with the Kubernetes community on the [community page](http://kubernetes.io/community/).
